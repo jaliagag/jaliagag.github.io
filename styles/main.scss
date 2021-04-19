@@ -20,7 +20,9 @@ a {
 }
 
 a:hover {
-    text-decoration: solid;
+    //text-decoration: solid;
+    color: white;
+    font-weight: bold;
 }
 
 .derecha a{
@@ -28,7 +30,6 @@ a:hover {
     // width: 60px;
     // height: 40px;
 }
-
 
 .spanish {
     margin-right: 20px;

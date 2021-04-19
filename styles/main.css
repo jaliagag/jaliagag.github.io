@@ -16,7 +16,8 @@ a {
   color: #0bce1f; }
 
 a:hover {
-  text-decoration: solid; }
+  color: white;
+  font-weight: bold; }
 
 .derecha a {
   margin-left: 20px; }
